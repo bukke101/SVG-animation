@@ -1,1 +1,1 @@
-# SVG-animation
+# SVG/CSS -animation
